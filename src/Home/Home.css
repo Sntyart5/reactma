@@ -1,0 +1,11 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/react-cdf16.appspot.com/o/barber3.jpg?alt=media&token=b875474d-95da-4217-9826-163ea8165b4e);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    color: black;
+    font-size: larger;
+    text-align: center;
+    ;
+}
